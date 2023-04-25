@@ -251,6 +251,6 @@ public class Hello implements ActionListener{
 		for(int i=0;i<9;i++) {
 			buttons[i].setEnabled(false);
 		}
-		textfield.setText("O wins");
+		textfield.setText("O win");
 	}
 }
